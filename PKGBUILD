@@ -1,6 +1,6 @@
-# Maintainer: Romain Gallet <romain.gallet at gmail.com>
-# Contributor: Romain Gallet <romain.gallet at gmail.com>
-_packager="Romain Gallet <romain.gallet at gmail.com>"
+# Maintainer: Romain Gallet <gr211 at users.noreply.github.com>
+# Contributor: Romain Gallet <gr211 at users.noreply.github.com>
+_packager="Romain Gallet <gr211 at users.noreply.github.com>"
 pkgver=0.3
 pkgname=sabnzbd-docker
 pkgrel=2
