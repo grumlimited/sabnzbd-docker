@@ -3,7 +3,7 @@
 _packager="Romain Gallet <gr211 at users.noreply.github.com>"
 pkgver=0.4
 pkgname=sabnzbd-docker
-pkgrel=1
+pkgrel=2
 pkgdesc='Convenience launch service for Sabnzd, Nzbhydra2 and Sonarr in docker'
 url="https://github.com/grumlimited/sabnzbd-docker"
 arch=('any')
