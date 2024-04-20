@@ -1,9 +1,9 @@
 # Maintainer: Romain Gallet <gr211 at users.noreply.github.com>
 # Contributor: Romain Gallet <gr211 at users.noreply.github.com>
 _packager="Romain Gallet <gr211 at users.noreply.github.com>"
-pkgver=0.3
+pkgver=0.4
 pkgname=sabnzbd-docker
-pkgrel=2
+pkgrel=1
 pkgdesc='Convenience launch service for Sabnzd, Nzbhydra2 and Sonarr in docker'
 url="https://github.com/grumlimited/sabnzbd-docker"
 arch=('any')
@@ -24,7 +24,7 @@ source=("file://sabnzbd-docker.service"
         "file://default.env"
         "file://docker.env")
 md5sums=('09d427d3b1de5bb5d14d674d18b778df'
-         '879f3630d2f97a93d92d593fc79c0636'
+         'c0abd821b7fa46bf65aacb53802d8f75'
          'd263106fb3ae8cf5595e870fdc8907c6'
          '86c471c654c795796dbef4f8f2f4bb8f'
          '55a3e51b6074df2959798d99b60e38b4'
