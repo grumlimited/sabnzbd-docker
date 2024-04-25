@@ -3,13 +3,13 @@
 _packager="Romain Gallet <gr211 at users.noreply.github.com>"
 pkgver=0.4
 pkgname=sabnzbd-docker
-pkgrel=2
+pkgrel=3
 pkgdesc='Convenience launch service for Sabnzd, Nzbhydra2 and Sonarr in docker'
 url="https://github.com/grumlimited/sabnzbd-docker"
 arch=('any')
 license=('GPL-3.0-or-later')
 groups=()
-depends=('docker-compose')
+depends=('docker')
 makedepends=()
 checkdepends=()
 optdepends=()

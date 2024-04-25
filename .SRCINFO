@@ -1,12 +1,12 @@
 pkgbase = sabnzbd-docker
 	pkgdesc = Convenience launch service for Sabnzd, Nzbhydra2 and Sonarr in docker
 	pkgver = 0.4
-	pkgrel = 2
+	pkgrel = 3
 	url = https://github.com/grumlimited/sabnzbd-docker
 	install = sabnzbd-docker.install
 	arch = any
 	license = GPL-3.0-or-later
-	depends = docker-compose
+	depends = docker
 	source = file://sabnzbd-docker.service
 	source = file://sabnzbd-docker-update.timer
 	source = file://sabnzbd-docker-update.service
